@@ -5,4 +5,4 @@
   - BLtouch
   - Neopixel (12 leds)
 
-  - KLIPPER with Fluiddpi
+  - KLIPPER with Fluiddpi (https://docs.fluidd.xyz/)
