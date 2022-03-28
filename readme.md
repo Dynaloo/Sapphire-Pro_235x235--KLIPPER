@@ -5,4 +5,5 @@
   - BLtouch
   - Neopixel (12 leds)
 
+  - Raspberry pi3 B
   - KLIPPER with Fluiddpi (https://docs.fluidd.xyz/)
