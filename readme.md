@@ -1,9 +1,11 @@
 # Configuring Printer
 
-  - TwoTrees Sapphire Pro (core XY)
+  - VzBot 235x235 (core XY)
   - SKR 1.4 turbo with TMC2209 UART
   - BLtouch
   - Neopixel (12 leds)
 
-  - Raspberry pi3 B
-  - KLIPPER with Fluiddpi (https://docs.fluidd.xyz/)
+  - Rock PI4 (substitute the Rasberry PI4 which is currently not found)
+
+  - KLIPPER (https://www.klipper3d.org/Overview.html)
+  - Fluiddpi (https://docs.fluidd.xyz/)
