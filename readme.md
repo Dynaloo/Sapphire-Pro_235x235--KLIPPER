@@ -1,6 +1,7 @@
 # Configuring Printer - VzBot 235x235 (core XY)
 
-- SKR 1.4 turbo with 4x TMC2209 UART
+- SKR 1.4 turbo with
+- 4x TMC2209 UART
 - 24v power MEAN WELL — LRS-350
 - BLtouch V3.1 ANTCLABS
 - Neopixel (12 leds)
@@ -9,5 +10,5 @@
 
 - Rock PI4 (substitute the Rasberry PI4 which is currently not found)
 
-- ![klipper-logo-small](https://user-images.githubusercontent.com/92954018/219406047-44c6e57a-47cd-454f-b759-3186218fe35e.png) (https://www.klipper3d.org/)
+- KLIPPER (https://www.klipper3d.org/)
 - Fluiddpi (https://docs.fluidd.xyz/)
