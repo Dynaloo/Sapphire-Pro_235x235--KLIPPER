@@ -1,6 +1,5 @@
 # Configuring Printer
-
- ##VzBot 235x235 (core XY)
+##VzBot 235x235 (core XY)
 
 - SKR 1.4 turbo with 4x TMC2209 UART
 - 24v power MEAN WELL — LRS-350
