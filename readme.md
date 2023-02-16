@@ -9,5 +9,5 @@
 
 - Rock PI4 (substitute the Rasberry PI4 which is currently not found)
 
-- KLIPPER (https://www.klipper3d.org/Overview.html) ![klipper-logo](https://user-images.githubusercontent.com/92954018/219402274-112fd290-3a9d-42ed-8f01-f2028bfe421c.png)
+- KLIPPER (https://www.klipper3d.org/Overview.html) [![Klipper](docs/img/klipper-logo-small.png)](https://www.klipper3d.org/)
 - Fluiddpi (https://docs.fluidd.xyz/)
