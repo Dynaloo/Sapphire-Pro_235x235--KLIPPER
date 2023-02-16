@@ -11,3 +11,5 @@
 
 - KLIPPER (https://www.klipper3d.org/Overview.html) [![Klipper](docs/img/klipper-logo-small.png)](https://www.klipper3d.org/)
 - Fluiddpi (https://docs.fluidd.xyz/)
+
+![klipper-logo-small](https://user-images.githubusercontent.com/92954018/219404972-a6627940-fc1f-4cc7-a886-93349d055090.png)
