@@ -1,4 +1,4 @@
-# Configuring Printer - VzBot 235x235 (core XY)
+# Configuring Printer - TwoTrees SP3 235x235 (core XY)
 
 - SKR 1.4 turbo with
 - 4x TMC2209 UART
